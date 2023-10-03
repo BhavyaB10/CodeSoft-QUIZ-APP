@@ -1,3 +1,3 @@
 # CodeSoft
-Virtual internship in codesoft<br>
-Admin name: Bhavya Binthariya
+Virtual internship at codesoft<br>
+Author: Bhavya Binthariya
